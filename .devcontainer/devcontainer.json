@@ -31,7 +31,7 @@
                 "cmake.configureOnEdit":  false,
                 "cmake.configureOnOpen": false,
                 "cmake.copyCompileCommands": "${workspaceFolder}/.vscode/compile_commands.json",
-                "cmake.path": "/usr/bin/cmake",
+                "cmake.cmakePath": "/usr/bin/cmake",
                 "clangd.path": "/usr/bin/clangd",
                 "clangd.arguments": [
                     "--background-index",
